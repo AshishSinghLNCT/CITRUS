@@ -21,6 +21,6 @@ citrus_pair_plot <- function(model,vars = NULL) {
          + theme(text=element_text(size=13,  family="sans")))
   
 }
-
+}
 
     
