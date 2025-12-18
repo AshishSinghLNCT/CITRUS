@@ -9,7 +9,7 @@ name: CI-CD Windows OS
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: windows-latest
     strategy:
       matrix:
         r-version: ['release']
